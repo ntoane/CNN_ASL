@@ -1,0 +1,1 @@
+This Notebook explores how to apply Convolutional Nural Networks for image classification using [American Sign Language alphabet](http://www.asl.gs/) dataset.
