@@ -15,16 +15,17 @@ This tutorial offers an exploration of how Convolutional Neural Networks (CNNs) 
 #### Using Google Colab
 
 To avoid installation issues and to make use of Google's free GPUs, you can run these notebooks in Google Colab. Just click on the 'Open in Colab' badges for each notebook link below.
-*  [Part A - CNN](https://github.com/ntoane/CNN_ASL/blob/main/Asl_a_cnn.ipynb) 
-<br />
+
+[Part A - CNN](https://github.com/ntoane/CNN_ASL/blob/main/Asl_a_cnn.ipynb) 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_a_cnn.ipynb)
 
-* [Part B - Data Augumentation](https://github.com/ntoane/CNN_ASL/blob/main/Asl_b_augmentation.ipynb)
-<br />
+[Part B - Data Augumentation](https://github.com/ntoane/CNN_ASL/blob/main/Asl_b_augmentation.ipynb)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_b_augmentation.ipynb)
 
-* [Part C - Make Predictions](https://github.com/ntoane/CNN_ASL/blob/main/Asl_c_predictions)
-<br />
+[Part C - Make Predictions](https://github.com/ntoane/CNN_ASL/blob/main/Asl_c_predictions)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_c_predictions)
 
 
