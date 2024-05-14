@@ -20,13 +20,9 @@ To avoid installation issues and to make use of Google's free GPUs, you can run 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_a_cnn.ipynb)
 
-[Part B - Data Augumentation](https://github.com/ntoane/CNN_ASL/blob/main/Asl_b_augmentation.ipynb)
+[Part B & C - Data Augumentation and Predictions](https://github.com/ntoane/CNN_ASL/blob/main/Asl_b_c_augment_pred.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_b_augmentation.ipynb)
-
-[Part C - Make Predictions](https://github.com/ntoane/CNN_ASL/blob/main/Asl_c_predictions)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_c_predictions)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ntoane/CNN_ASL/blob/main/Asl_b_c_augment_pred.ipynb)
 
 
 #### Dataset
